@@ -37,8 +37,8 @@ This project is a technical documentation page, showcasing a clean and responsiv
 
 ## Links
 
-- **Repository**: [GitHub Repository](#)
-- **Live Demo**: [Live Link](#)
+- **Repository**: [GitHub Repository](https://github.com/dquinn089/fcc-technical-documentation)
+- **Live Demo**: [Live Link](https://dquinn089.github.io/fcc-technical-documentation/)
 
 ---
 
